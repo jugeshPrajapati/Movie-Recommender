@@ -28,6 +28,7 @@ A smart movie recommender desktop application that suggests similar movies based
 
 - 🖥️ **Standalone GUI App**  
   No need to use command line — fully interactive PyQt5 desktop interface.
+  exe link: https://drive.google.com/file/d/1knmbHw_eAS9d6aMYZ_zF4uTpDVd58tyy/view?usp=drive_link
 
 ---
 
